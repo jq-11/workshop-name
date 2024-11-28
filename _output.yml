@@ -1,0 +1,27 @@
+bookdown::gitbook:
+  css: style.css
+  config:
+    toc:
+      before: |
+        <img src="img/bioinformatics.ca-logo.svg" width=100%>
+        <li><a href="./">[YOUR WORKSHOP NAME]</a></li>
+      after: |
+        <h1 id="sponsors">Sponsors</h1>
+
+        [DELETE THIS, <br>
+        INSERT YOUR SPONSOR LOGOS HERE, <br>
+        USE THE FORMATTING GIVEN BELOW, <br>
+        BUT CHANGE THE FILE LOCATION TO THE FILE LOCATION OF YOUR LOGO]
+        <img src="img/favicon.ico">
+
+        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+    edit: https://github.com/USERNAME/REPO/edit/BRANCH/%s
+    download: ["pdf", "epub"]
+  number_sections: false
+bookdown::pdf_book:
+  includes:
+    in_header: preamble.tex
+  latex_engine: xelatex
+  citation_package: natbib
+  keep_tex: yes
+bookdown::epub_book: default

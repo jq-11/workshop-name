@@ -1,0 +1,28 @@
+## TEMPLATE-REFERENCES
+
+Everything below will hopefully help you create a workshop website and understand how to work with this template.
+
+
+### Comments
+
+Notes:
+
+<!--- comment ---> is the notation for making a comment in a .R/md file. The comment begins after <!--- and ends after the FIRST ---> symbols.
+
+<!-- This is a comment. --> Some explanations for this template will be in these comments.
+
+You can instantly make a comment by clicking on the line with the text you want to comment and using the keyboard command: `cmd/ctrl` + `shift` + `c`.
+
+### Content in Square Brackets
+
+Content that you should replace is written in square brackets [insert here].
+
+### Quick Formatting
+
+Copy and paste the below formatting into your files!
+
+
+Create a callout
+> Callout
+> 
+> callout

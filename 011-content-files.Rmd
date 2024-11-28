@@ -1,0 +1,17 @@
+## Pre-workshop Materials
+
+Click [here](insert link here) for your prework!
+
+<!-- You can insert more here -->
+
+## Slidedecks & Other Content
+
+<!-- Insert slideshows as pdfs with this markdown code -->
+
+![insert alt text for pdf here](content-files/sample-pdf.pdf){width=100% height=900}\ <!-- edit height based your preferences -->
+
+<!-- Try to keep slideshows as pdfs for accessibility, slideshows from google slides can be inserted by pasting in the html code to share it into your markdown -->
+
+## Downloads
+
+Insert downloads (ex. datasets) or other tech instructions here (ex. AWS Instructions)

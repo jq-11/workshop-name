@@ -1,0 +1,9 @@
+# Module 2
+
+put some example of producing images, show chunk options
+
+```{r, pressure-plot, echo=FALSE}
+plot(pressure)
+```
+
+- include formatting options

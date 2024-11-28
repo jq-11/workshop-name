@@ -1,0 +1,31 @@
+# (PART) Modules {-}
+
+# Module 1
+
+Put your content (maybe even pdfs and slides ????) here.
+
+These pages should be a rendered and compiled version of your code, if you have code. 
+
+R, python, bash and more can run in bookdown. 
+
+```{r}
+# This is R
+x <- 42
+x
+```
+
+```{python}
+# This is python
+print("hello world")
+```
+
+```{bash}
+# This is bash
+pwd
+```
+
+Try running these code "chunks" by pressing the green (left-pointing) triangle next to your code chunks. 
+
+You will see the code run in the console and the output provided below the code chunk.
+
+The output of the code will also be produced under the code chunk on your wesbite page.

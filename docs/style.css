@@ -1,0 +1,23 @@
+p.caption {
+  color: #777;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+/* The previous comments are predefined by bookdown, be careful touching these */
+
+/* Below consists of css elements added for the purpose of this template*/
+
+#sponsors { /*styling the sponsors header at the bottom of the sidebar, comes from the toc in _output.yml*/
+  text-align: center;
+}
+
+/* Insert any of your specific css additions below*/
