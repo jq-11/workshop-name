@@ -14,7 +14,7 @@ github-repo: rstudio/bookdown-demo
 favicon: img/favicon.ico
 ---
 
-# (PART) Introduction
+# (PART) JUST A TEST TEMPLATE - NOT IMPORTANT
 
 # Welcome
 

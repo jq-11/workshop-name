@@ -1,4 +1,4 @@
-part-introduction
+part-just-a-test-template---not-important
 welcome
 course-schedule
 pre-workshop-materials
